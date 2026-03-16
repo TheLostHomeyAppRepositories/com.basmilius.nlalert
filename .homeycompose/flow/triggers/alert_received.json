@@ -1,0 +1,49 @@
+{
+    "id": "alert_received",
+    "title": {
+        "en": "NL Alert received",
+        "nl": "NL Alert ontvangen"
+    },
+    "titleFormatted": {
+        "en": "An NL Alert was received for your location",
+        "nl": "Er is een NL Alert ontvangen voor jouw locatie"
+    },
+    "hint": {
+        "en": "Fires when a new NL Alert is received that affects your Homey's location.",
+        "nl": "Vuurt af wanneer er een nieuwe NL Alert is ontvangen die invloed heeft op de locatie van jouw Homey."
+    },
+    "tokens": [
+        {
+            "name": "alert_id",
+            "type": "string",
+            "title": {
+                "en": "Alert ID",
+                "nl": "Alert-ID"
+            }
+        },
+        {
+            "name": "alert_message",
+            "type": "string",
+            "title": {
+                "en": "Alert message",
+                "nl": "Alertbericht"
+            }
+        },
+        {
+            "name": "alert_start_at",
+            "type": "string",
+            "title": {
+                "en": "Start time",
+                "nl": "Starttijd"
+            }
+        },
+        {
+            "name": "alert_stop_at",
+            "type": "string",
+            "title": {
+                "en": "End time",
+                "nl": "Eindtijd"
+            }
+        }
+    ]
+}

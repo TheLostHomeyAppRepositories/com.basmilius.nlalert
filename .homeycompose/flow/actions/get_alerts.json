@@ -1,0 +1,41 @@
+{
+    "id": "get_alerts",
+    "title": {
+        "en": "Get active NL Alerts",
+        "nl": "Haal actieve NL Alerts op"
+    },
+    "titleFormatted": {
+        "en": "Get all active NL Alerts for your location",
+        "nl": "Haal alle actieve NL Alerts op voor jouw locatie"
+    },
+    "hint": {
+        "en": "Retrieves all currently active NL Alerts affecting your Homey's location.",
+        "nl": "Haalt alle momenteel actieve NL Alerts op die invloed hebben op de locatie van jouw Homey."
+    },
+    "tokens": [
+        {
+            "name": "count",
+            "type": "number",
+            "title": {
+                "en": "Number of alerts",
+                "nl": "Aantal alerts"
+            }
+        },
+        {
+            "name": "first_message",
+            "type": "string",
+            "title": {
+                "en": "First alert message",
+                "nl": "Eerste alertbericht"
+            }
+        },
+        {
+            "name": "alerts_json",
+            "type": "string",
+            "title": {
+                "en": "Alerts (JSON)",
+                "nl": "Alerts (JSON)"
+            }
+        }
+    ]
+}

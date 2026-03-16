@@ -1,0 +1,15 @@
+{
+    "id": "alert_active",
+    "title": {
+        "en": "An NL Alert is active",
+        "nl": "Er is een actieve NL Alert"
+    },
+    "titleFormatted": {
+        "en": "!{{An NL Alert is active for your location|No NL Alert is active for your location}}",
+        "nl": "!{{Er is een actieve NL Alert voor jouw locatie|Er is geen actieve NL Alert voor jouw locatie}}"
+    },
+    "hint": {
+        "en": "Checks if there is currently an active NL Alert affecting your Homey's location.",
+        "nl": "Controleert of er momenteel een actieve NL Alert is die invloed heeft op de locatie van jouw Homey."
+    }
+}
