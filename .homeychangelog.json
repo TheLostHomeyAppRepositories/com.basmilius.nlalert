@@ -2,5 +2,9 @@
     "1.0.0": {
         "en": "Initial release",
         "nl": "Eerste release"
+    },
+    "1.0.1": {
+        "en": "Made polling more efficient",
+        "nl": "Polling is nu efficiënter"
     }
 }
