@@ -10,5 +10,8 @@
     "1.0.2": {
         "en": "Decrease ram usage",
         "nl": "Ramgebruik is nu lager"
+    },
+    "1.0.3": {
+        "en": "Update dependencies."
     }
 }
