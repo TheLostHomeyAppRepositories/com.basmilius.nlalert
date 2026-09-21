@@ -1,6 +1,7 @@
 {
     "name": "com.basmilius.nlalert",
     "version": "0.0.0",
+    "license": "MIT",
     "scripts": {
         "build": "tsc"
     },
