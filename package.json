@@ -6,7 +6,7 @@
         "build": "tsc"
     },
     "dependencies": {
-        "@basmilius/homey-common": "^1.23.0"
+        "@basmilius/homey-common": "^1.25.0"
     },
     "devDependencies": {
         "@tsconfig/node22": "^22.0.5",
